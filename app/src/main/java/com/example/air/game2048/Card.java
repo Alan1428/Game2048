@@ -7,7 +7,7 @@ import android.graphics.Canvas;
 import android.util.Log;
 
 /**
- * Created by gcx on 16/7/22.
+ * Created by lan on 16/7/22.
  */
 
 
